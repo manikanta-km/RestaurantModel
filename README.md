@@ -17,4 +17,4 @@
 ## Entity:
 ### The Attributes of the project are present here.
 # Project Summary 
-### This project is all about managing the users and maintaing the data in the database and we can create the user and also we can modify the users attributes in database using the API'S 
+### This project is all about managing the users and maintaing the data in the database and we can create the restaurant and also we can modify the restaurant's attributes in database using the API'S 
